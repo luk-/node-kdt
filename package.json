@@ -1,0 +1,26 @@
+{
+  "name": "kdt",
+  "version": "0.1.0",
+  "description": "100% JS k-d tree. Port of kd-tree-javascript.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/st-luke/node-kdt"
+  },
+  "keywords": [
+    "kd-tree",
+    "k-d",
+    "tree",
+    "geo",
+    "lat",
+    "long"
+  ],
+  "author": "Ubilabs",
+  "contributors": [
+    "Mircea Pricop (https://github.com/mirceapricop)",
+    "Martin Kleppe (https://github.com/aemkei)",
+    "Luke Arduini  (http://github.com/st-luke)"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
